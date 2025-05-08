@@ -16,7 +16,7 @@ with open('cards.json', 'r', encoding='utf-8') as file:
     cards = json.load(file)
 
 # Инициализация бота
-bot = telebot.TeleBot("7767020364:AAH4_Xy3hQMQoyuqt2tHjgGXsPp3chKv1gs")
+bot = telebot.TeleBot("7762tHjgGXsPp3chKv1gs")
 
 # Папка для хранения данных игроков
 DATA_FOLDER = "user_data"
